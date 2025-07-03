@@ -1,4 +1,13 @@
 body {
-    color: white;
-    background: pink;
+color: white;
+background: pink;
+}
+
+header {
+padding: 20px;
+font-size: 32px;
+}
+
+section {
+background: yellow;
 }
